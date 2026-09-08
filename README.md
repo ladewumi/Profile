@@ -14,4 +14,4 @@ UI/UX Designer based in Toronto, ON, with a hands-on, Figma-driven design proces
 Building an early-stage mobile transit app for the Ontario/Toronto market — see pinned repos for a look at the prototype work.
 
 ### Let's connect
-📧 oluwademilade98@gmail.com · 📍 Toronto, ON · [LinkedIn](#) *(add your LinkedIn URL here)*
+📧 adewumioluwademilade98@gmail.com · 📍 Toronto, ON · [LinkedIn](#) *(add your LinkedIn URL here)*
