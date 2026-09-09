@@ -3,7 +3,7 @@
 UI/UX Designer based in Toronto, ON, with a hands-on, Figma-driven design process spanning wireframes, prototypes, and scalable design systems for web and mobile products. I own the full design lifecycle — user research, usability testing, and iterative refinement based on feedback and data — while working closely with founders, engineers, and product teams.
 
 ### What I work on
-- 🚌 **Routez** — a city-wide bus transit app (BTAP) for everyday commuters. I design the user journeys, wireframes, and production-ready UI, and partner directly with city officials, engineers, and QA to ship features. https://res.cloudinary.com/dj16pc6ym/image/upload/v1788871994/btap-case-study_hkgw9c.pdf
+- 🚌 **Routez** — a city-wide bus transit app (BTAP) for everyday commuters. I design the user journeys, wireframes, and production-ready UI, and partner directly with city officials, engineers, and QA to ship features. https://res.cloudinary.com/dj16pc6ym/image/upload/v1788950330/btap-case-study_xzyu5b.pdf
 - ♻️ **Pakam (XRUBICON Solutions)** — designed and prototyped a suite of products for a recycling platform: admin dashboard, company dashboard, household app, and recycler app.
 - 🗑️ **Lagos Waste Management Authority (LAWMA)** — redesigned and prototyped both the mobile app and website.
 
